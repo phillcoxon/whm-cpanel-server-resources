@@ -15,7 +15,7 @@ Various scripts &amp; Resources for managing / monitoring WHM / cPanel Servers
 
 2) https://launchpad.net/mysql-tuning-primer
 
-3) http://mysqlmymon.com/
+3) http://mysqlmymon.com/ (https://plus.google.com/108811075440113919897/posts/Kuwi61AwFQd)
 
 Random related threads: 
 
