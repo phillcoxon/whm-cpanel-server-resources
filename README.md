@@ -1,0 +1,52 @@
+whm-cpanel-server-resources
+===========================
+
+Various scripts &amp; Resources for managing / monitoring WHM / cPanel Servers
+
+
+### Mysql Tuning
+
+1) mysqltuner - https://github.com/major/MySQLTuner-perl 
+
+#### Notes:
+
+* out of date as of 11 Feb 2014 - not 100% compatible with MySQL 5.2 up - see http://forums.cpanel.net/f354/case-90317-warning-using-mysqltuner-mysql-5-6-a-389971.html#post1567891
+* possibly about to be updated?  https://github.com/major/MySQLTuner-perl/issues/34
+
+2) https://launchpad.net/mysql-tuning-primer
+
+3) http://mysqlmymon.com/
+
+Random related threads: 
+
+http://forums.cpanel.net/f189/optimization-2gb-vps-centos-6-2-a-389581.html
+http://forums.cpanel.net/f354/case-90317-warning-using-mysqltuner-mysql-5-6-a-389971.html#post1567891
+
+
+
+### Server Monitoring
+
+* Munin
+* ORCA?
+
+
+
+### Good cPanel / WHM Plugins & Extensions
+
+#### Caching
+
+* Unixy Varnish 
+
+
+#### Firewall
+
+*CSF
+
+
+
+
+
+### Smartphone Apps
+
+* cPanel app
+* WHM app
