@@ -4,6 +4,15 @@ whm-cpanel-server-resources
 Various scripts &amp; Resources for managing / monitoring WHM / cPanel Servers
 
 
+Note:  total mess at the moment - will start tidying up / expanding over time. 
+
+### My Stuff
+
+* Loadwatch - https://github.com/getresults/loadwatch
+* WHM / cPanel - hide git repos - https://github.com/getresults/whm-cpanel-hide-git-repos
+
+
+
 ### Mysql Tuning
 
 1) mysqltuner - https://github.com/major/MySQLTuner-perl 
@@ -46,9 +55,6 @@ http://forums.cpanel.net/f354/case-90317-warning-using-mysqltuner-mysql-5-6-a-38
 #### Memory Management
 
 http://www.selenic.com/smem/
-
-
-
 
 
 
